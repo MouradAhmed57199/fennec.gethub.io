@@ -1,0 +1,25 @@
+h2{
+    position: absolute;
+    font-size:50px;
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    top: 0%;
+    left: 37%;
+    
+
+}
+.intro{
+    position: relative;
+    width: 30%;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    
+
+}
+p{
+    color: rgb(255, 255, 255);
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+}
